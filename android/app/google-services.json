@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092678499530",
+    "project_id": "acacia-92dad",
+    "storage_bucket": "acacia-92dad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092678499530:android:c280e74cbf0fa354290833",
+        "android_client_info": {
+          "package_name": "com.example.akasia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_IL2Mk59GoikP7rRMO6yB2Tl7mH_iKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
